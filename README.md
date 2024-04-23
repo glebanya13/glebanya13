@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gleb
+Hi ![](https://giphy.com/embed/bAaxaW1hHF02qMM7Sb)My name is Gleb
 ============================================================================================================================
 
 Fullstack Developer
