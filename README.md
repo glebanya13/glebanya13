@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Gleb
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gleb
 ============================================================================================================================
 
 Fullstack Developer
@@ -6,11 +6,11 @@ Fullstack Developer
 
 I've been learning to code for 4 years. What can I offer you: — Development of administrative panels. (VueJS | React) — Writing simple scripts. (GoLang) — Development of the server part. (GoLang)
 
-* 🌍  I'm based in Minsk
-* ✉️  You can contact me at [glebanya.com@gmail.com](mailto:glebanya.com@gmail.com)
-* 🧠  I'm learning React, Angular, Echo, Gin
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm secretly Spiderman... but don't tell anyone
+* 🌍  I'm based in Minsk
+* ✉️  You can contact me at [glebanya.com@gmail.com](mailto:glebanya.com@gmail.com)
+* 🧠  I'm learning React, Angular, Echo, Gin
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I'm secretly Spiderman... but don't tell anyone
 
 <a href="https://www.github.com/glebanya13" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/glebanya13?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
