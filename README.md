@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I've been learning to code for 4 years. What can I offer you: — Development of administrative panels. (VueJS | React) — Writing simple scripts. (GoLang) — Development of the server part. (GoLang)
+<p>
+  I've been learning to code for 4 years. What can I offer you: <br>
+  — Development of administrative panels. (VueJS | React) <br>
+  — Writing simple scripts. (GoLang) <br>
+  — Development of the server part. (GoLang)
+</p>
 
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [glebanya.com@gmail.com](mailto:glebanya.com@gmail.com)
