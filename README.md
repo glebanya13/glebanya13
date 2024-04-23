@@ -1,4 +1,4 @@
-Hi ![](https://giphy.com/embed/bAaxaW1hHF02qMM7Sb)My name is Gleb
+### Hi there 👋 My name is Gleb
 ============================================================================================================================
 
 Fullstack Developer
