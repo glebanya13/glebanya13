@@ -14,7 +14,7 @@ Fullstack Developer
 
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [glebanya.com@gmail.com](mailto:glebanya.com@gmail.com)
-* 🧠  I'm learning React, Angular, Echo, Gin
+* 🧠  I'm learning React, Nest
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
