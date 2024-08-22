@@ -5,10 +5,11 @@ Fullstack Developer
 -------------------
 
 <p>
-  I've been learning to code for 4 years. What can I offer you: <br>
-  — Development of administrative panels. (VueJS | React) <br>
-  — Writing simple scripts. (GoLang) <br>
-  — Development of the server part. (GoLang)
+  Hello! My name is Gleb, I am an experienced full stack developer with more than 4 years of experience. 
+  I offer my services to create high-quality and reliable solutions:
+  — Development of control panels: Vue, React + MaterialUI, AntDesign, etc.
+  — Scripts: Node.js, Nest.js.
+  — Work on the server.
 </p>
 
 * 🌍  I'm based in Minsk
