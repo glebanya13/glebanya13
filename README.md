@@ -5,7 +5,7 @@ Fullstack Developer
 -------------------
 
 <p>
-  Hello! My name is Gleb, I am an experienced full stack developer with more than 4 years of experience. <br />
+  Hello! My name is Gleb, I am an experienced full stack developer with more than 2 years of experience. <br />
   I offer my services to create high-quality and reliable solutions: <br />
   — Development of control panels: Vue, React + MaterialUI, AntDesign, etc. <br />
   — Scripts: Node.js, Nest.js. <br />
@@ -14,7 +14,6 @@ Fullstack Developer
 
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [glebanya.com@gmail.com](mailto:glebanya.com@gmail.com)
-* 🧠  I'm learning React, Nest
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/glebanya13" target="_blank" rel="noreferrer"><img
