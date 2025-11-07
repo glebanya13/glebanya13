@@ -1,10 +1,3 @@
-# Gleb Shershnev
-
-![Pocoyo groovy dance](https://gifdb.com/images/high/pocoyo-groovy-disco-dance-rxyq4n9h0bu1lnd7.gif)
-
-
-
-
 ## Languages & Frameworks
 
 <p align="left">
